@@ -1,0 +1,9 @@
+exports.define = require('./Define').instance();
+exports.setting = require('./Setting').instance();
+exports.func = require('./Func').instance();
+exports.method = require('./Method').instance();
+exports.static = require('./Static').instance();
+exports.protocol = require('./Protocol').instance();
+exports.file = require('./File').instance();
+exports.configure = require('./Configure').instance();
+exports.extra = require('./Extra').instance();

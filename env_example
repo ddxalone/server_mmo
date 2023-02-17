@@ -1,0 +1,15 @@
+protocol=http
+key_path=key_path
+cert_path=cert_path
+key_pass=key_pass
+
+game_addr=0.0.0.0
+game_port=7016
+http_addr=127.0.0.1
+http_port=7018
+
+mysql_host=127.0.0.1
+mysql_user=root
+mysql_pass=ylwm3022
+mysql_port=3306
+mysql_data=planet_crack
